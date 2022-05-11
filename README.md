@@ -87,8 +87,8 @@ Here, the Grid did not work as expected because of the images used in HTML. The 
 The navbar was quite tricky to get right because of using `position:fixed;`. This problem was soved using flexbox instead of `position`.  
 
 ### Continued development
-- Work on responsiveness of this site 
-- Learn about images in-depth since it caused major discomfort while styling the [About](./index.html) section
+- Work on responsiveness of this site for mobile screens 
+- Learn about images in depth, since it caused major discomfort while styling the [About](./index.html) section
 
 ### Useful resources
 
