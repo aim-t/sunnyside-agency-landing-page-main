@@ -93,5 +93,5 @@ The navbar was quite tricky to get right because of using `position:fixed;`. Thi
 ### Useful resources
 
 - This [video](https://www.youtube.com/watch?v=jV8B24rSN5o) helped me with learning grid. I really liked the teaching method.
-- This [tutorial](https://www.youtube.com/watch?v=fYq5PXgSsbE) is an amazing tutorial which helped me understand flexbox. I'd recommend it to anyone still learning this concept.
+- [This](https://www.youtube.com/watch?v=fYq5PXgSsbE) is an amazing tutorial which helped me understand flexbox. I'd recommend it to anyone still learning this concept.
 - This [Youtube Channel](https://www.youtube.com/kepowob) has helped me for a long time, especially with CSS. Highly recommended.  
